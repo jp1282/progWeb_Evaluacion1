@@ -23,6 +23,8 @@ a{
 	color:white;
 }
 
+/* Esta seccion crea el frame principal */
+
 #HOME{
 	background-color:#f2efe8;
 	color:white;
@@ -33,6 +35,8 @@ a{
 	margin-bottom: 10px;
 	padding-left: 10px;
 }
+
+/* Este estilo es para la seccion de contacto */
 
 #CONTACT{
 	background-color:#7a7775;
@@ -49,6 +53,7 @@ a{
 	
 }
 
+/* Este estilo es para le menu en cada pagina */
 #menu{
 	width:50%;
 	height: 70px;
@@ -78,7 +83,7 @@ a{
 	padding-right: 10px;
 }
 
-
+/* Esta seccion es para el layout principal en cada pagina */
 .frame1{
 	background-color:#f2efe8;
 	color:black;
@@ -113,6 +118,7 @@ a{
 	margin-bottom: 10px;
 }
 
+/* Este estilo es para el FOOTER */
 #pie{
 	background-color:lightgrey;
 	color:black;
